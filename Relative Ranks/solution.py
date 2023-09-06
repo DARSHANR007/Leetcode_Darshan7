@@ -1,5 +1,5 @@
 class Solution:
-    def findRelativeRanks(self, nums: List[int]) -> List[str]:
+    def findRelativeRanks(self, nums: list[int]) -> list[str]:
         d = defaultdict(int)
         place = ["Gold Medal", "Silver Medal", "Bronze Medal"]
         n = len(nums)

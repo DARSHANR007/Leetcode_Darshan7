@@ -1,5 +1,5 @@
 class Solution:
-  def coinChange(self, coins: List[int], amount: int) -> int:
+  def coinChange(self, coins: list[int], amount: int) -> int:
     # dp[i] := fewest # Of coins to make up i
     dp = [0] + [amount + 1] * amount
 
