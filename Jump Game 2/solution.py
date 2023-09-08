@@ -1,5 +1,5 @@
 class Solution:
-    def jump(self, nums: List[int]) -> int:
+    def jump(self, nums: list[int]) -> int:
         l = r = count = 0
 
         while r < len(nums) - 1:
