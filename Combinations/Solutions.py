@@ -1,5 +1,5 @@
 class Solution:
-    def combine(self, n: int, k: int) -> List[List[int]]:
+    def combine(self, n: int, k: int) -> list[List[int]]:
         ans,temp=[],[]
         def rec(n,k,num):
             if len(temp)==k:
