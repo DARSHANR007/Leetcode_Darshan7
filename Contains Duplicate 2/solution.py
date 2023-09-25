@@ -1,5 +1,5 @@
 class Solution:
-    def containsNearbyDuplicate(self, nums: List[int], k: int) -> bool:
+    def containsNearbyDuplicate(self, nums: list[int], k: int) -> bool:
         numHash = {}
 
         for i, num in enumerate(nums):
