@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b5c5d187-4965-423d-a392-1a31b7ef4fec" name="Changes" comment="Leetcode">
-      <change beforePath="$PROJECT_DIR$/Contains Duplicate 2/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/Contains Duplicate 2/solution.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Maximum Average SubArray 1/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/Maximum Average SubArray 1/solution.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +39,11 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Python Shit/Leetcode_daily&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.tabs&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -51,6 +54,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1693024966611</updated>
+      <workItem from="1705418541147" duration="48000" />
+      <workItem from="1705466977352" duration="144000" />
     </task>
     <task id="LOCAL-00001" summary="Leetcode">
       <created>1693072429688</created>
@@ -292,8 +297,27 @@
       <option name="project" value="LOCAL" />
       <updated>1695664921622</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="Leetcode">
+      <option name="closed" value="true" />
+      <created>1696181862749</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1696181862749</updated>
+    </task>
+    <task id="LOCAL-00036" summary="Leetcode">
+      <option name="closed" value="true" />
+      <created>1706635571768</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1706635571768</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Leetcode Sorting" />
