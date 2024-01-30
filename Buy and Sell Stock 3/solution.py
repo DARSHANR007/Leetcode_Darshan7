@@ -1,5 +1,5 @@
 class Solution:
-    def maxProfit(self, A: List[int]) -> int:
+    def maxProfit(self, A: list[int]) -> int:
         N=len(A)
         sell=[0]*N
         for _ in range(2):
